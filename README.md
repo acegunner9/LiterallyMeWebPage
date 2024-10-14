@@ -6,3 +6,6 @@ That's when I realized I had not set a Directory (IE my Webpage file) after corr
 
 10/14/2024 2:55 PST
 Nathaniel F and his demonstration of deploying website to github pages.
+
+10/14/2024 3:20 PST
+Updated the index file's phone number.
